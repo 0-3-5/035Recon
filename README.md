@@ -2,4 +2,6 @@
 Recon framework for bug bounty hunting and pentesting
 
 # Installation
-``` run lol
+```
+git clone https://github.com/0-3-5/035Recon
+cd 035Recon

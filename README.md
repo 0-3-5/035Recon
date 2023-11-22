@@ -13,6 +13,15 @@ chmod +x setup.sh
 If this does not work run the script directly from the file:<br>
 python3 path/to/035Recon/script/main.py<br>
 
+# Features
+Subdomain enumeration<br>
+Vulnerability scanning<br>
+Advanced multithreading<br>
+Subdomain screenshoting<br>
+Html report<br>
+Support for custom vulnerability scanning and subdomain enumeration<br>
+
+
 # Commands
 
 ```

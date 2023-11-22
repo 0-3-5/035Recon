@@ -7,12 +7,11 @@ git clone https://github.com/0-3-5/035Recon
 cd 035Recon
 chmod +x setup.sh
 ./setup.sh
-
 ```
 # Usage
-035Recon [args]
-If this does not work run the script directly from the file:
-python3 path/to/035Recon/script/main.py
+035Recon [args]\n
+If this does not work run the script directly from the file:\n
+python3 path/to/035Recon/script/main.py\n
 
 # Commands
 

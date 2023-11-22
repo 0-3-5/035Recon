@@ -9,9 +9,9 @@ chmod +x setup.sh
 ./setup.sh
 ```
 # Usage
-035Recon [args]\n
-If this does not work run the script directly from the file:\n
-python3 path/to/035Recon/script/main.py\n
+035Recon [args]<br>
+If this does not work run the script directly from the file:<br>
+python3 path/to/035Recon/script/main.py<br>
 
 # Commands
 

@@ -20,6 +20,7 @@ Advanced multithreading<br>
 Subdomain screenshoting<br>
 Html report<br>
 Support for custom vulnerability scanning and subdomain enumeration<br>
+Highly customizabile and eaasy to use
 
 
 # Commands

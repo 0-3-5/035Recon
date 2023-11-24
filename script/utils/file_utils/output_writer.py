@@ -12,7 +12,6 @@ import utils.time_utils.time_utils
 import utils.tool_utils.resolver_utils.resolver
 import vuln_scanning.vulns
 import utils.asn_utils.asn_intel_enum
-from faraday.vendor.sqlalchemy.sql.expression import false
 
 
 output = []

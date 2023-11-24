@@ -9,6 +9,7 @@ chmod +x setup.sh
 ./setup.sh
 ```
 # Usage
+Open a new terminal window and run:
 035Recon [args]<br>
 If this does not work run the script directly from the file:<br>
 python3 path/to/035Recon/script/main.py<br>

@@ -61,7 +61,7 @@ SUBDOMAIN ENUMERATION OPTIONS:
 -git : Scrape Github for subdomains. https://github.com/gwen001/github-search
 -git-token : Github api key for -git argument.
 -brute : DNS bruteforcing. https://github.com/blechschmidt/massdns
--brute-list : Wordlist for DNS bruteforcing.(Do not include for default 7 million subdomain list.)
+-brute-list : Wordlist for DNS bruteforcing.(Do not include for default 2 million subdomain list.)
 -alt : Alteration scanning.
 -link-go : Linked discovery using Gospider. https://github.com/jaeles-project/gospider
 -link-sub : Linked discovery using Subdomainizer. https://github.com/nsonaniya2010/SubDomainizer

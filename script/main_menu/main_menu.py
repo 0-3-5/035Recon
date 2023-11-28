@@ -55,7 +55,7 @@ def main_menu():
               ]
 
     print(Fore.RED + '\033[1mMade By 035#0824')
-    print(Fore.RED + '\033[1mhttps://www.google.com')
+    print(Fore.RED + '\033[1mhttps://github.com/0-3-5/035Recon')
     print(Fore.RED + '\033[1mDo not use for illegal activity!')
     print(Fore.RED + '\033[1mTools not included, you must download them yourself!')
     print(Fore.RED + '\033[1m' + quotes[random.randint(0, len(quotes) - 1)])

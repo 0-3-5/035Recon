@@ -38,7 +38,7 @@ Highly customizabile and eaasy to use
     
 ################################################################################
 Made By 035#0824
-https://www.google.com
+https://github.com/0-3-5/035Recon
 Do not use for illegal activity!
 Tools not included, you must download them yourself!
 Parallel lines have so much in common. It's a shame they'll never meet.
